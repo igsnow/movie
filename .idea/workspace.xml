@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33ccf1a6-735b-4406-bc96-aeb24dfe787d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/posts-data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/iqiyi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/music/music-start.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/music/music-stop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tab/ciwei.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tab/ciwei_hl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tab/dianying.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tab/dianying_hl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tab/yuedu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tab/yuedu_hl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/vr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/wx.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/post/sls.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/welcome/welcome.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/welcome/welcome.wxss" afterDir="false" />
-    </list>
+    <list default="true" id="33ccf1a6-735b-4406-bc96-aeb24dfe787d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -51,9 +34,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="1317" />
-    <option name="y" value="25" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1279" />
+    <option name="y" value="19" />
     <option name="width" value="1100" />
     <option name="height" value="1000" />
   </component>
@@ -69,17 +52,6 @@
             <path>
               <item name="movie" type="b2602c69:ProjectViewProjectNode" />
               <item name="movie" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="movie" type="b2602c69:ProjectViewProjectNode" />
-              <item name="movie" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="movie" type="b2602c69:ProjectViewProjectNode" />
-              <item name="movie" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="posts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -126,18 +98,18 @@
       <workItem from="1553400110720" duration="632000" />
       <workItem from="1553429376688" duration="60000" />
       <workItem from="1553615512337" duration="7000" />
-      <workItem from="1556195895562" duration="2199000" />
+      <workItem from="1556195895562" duration="2514000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7459000" />
+    <option name="totallyTimeSpent" value="7774000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1317" y="25" width="1100" height="1000" extended-state="1" />
+    <frame x="1279" y="19" width="1100" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28942308" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28942308" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -149,7 +121,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.47806004" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.34486735" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.34411085" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Cargo" />
@@ -243,8 +215,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="243">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
         </state>
       </provider>
     </entry>
