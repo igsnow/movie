@@ -16,6 +16,7 @@ page {
 }
 
 .user-name {
+  margin-top: 100rpx;
   font-size: 32rpx;
   font-weight: bold;
 }
